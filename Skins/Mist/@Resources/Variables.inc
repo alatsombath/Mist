@@ -9,6 +9,10 @@ PlayerName=CAD
 
 TransitionTime=5
 
+AlbumArtWidth=96
+AlbumArtHeight=96
+AlbumArtBottomPadding=6
+
 Font=Segoe UI Semilight
-FontSize=32
+FontSize=12
 FontColor=255,255,255
