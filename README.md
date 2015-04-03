@@ -6,4 +6,4 @@ To synchronize the positions of the skins, go to the "Edit settings" context men
 
 GIF was recorded in [ScreenToGif](https://screentogif.codeplex.com/)
 
-![Preview](http://orig08.deviantart.net/03c0/f/2015/091/4/c/mist__nowplaying_display_for_rainmeter__by_alatsombath-d8o2h47.gif)
+![Preview](http://orig15.deviantart.net/1ab8/f/2015/093/2/7/mist__nowplaying_display_for_rainmeter__by_alatsombath-d8o2h47.gif)
